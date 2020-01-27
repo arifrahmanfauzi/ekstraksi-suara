@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Mengenal MFCC Salah satu metode Ekstraksi Suara](README.md)
 
